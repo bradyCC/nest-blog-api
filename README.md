@@ -60,6 +60,18 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## 创建项目
+nest new 项目名称
+
+## 创建模块
+nest g mo 模块名称
+
+## 创建控制器
+nest g co 控制器名称
+
+## 启动项目监听
+npm run start:dev
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
